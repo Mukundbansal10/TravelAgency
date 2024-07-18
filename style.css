@@ -307,7 +307,8 @@ header .trip_bx .travel_bx .cards .card  .btn_city h5 span{
 .offers .cards .card .img_text img{
     position: relative;
     font-size: 9px;
-    width:100px;
+    width:100%;
+    height: auto;
     border-radius: 10px 10px 0px 0px;
 }
 .offers .cards .card .img_text h4{
